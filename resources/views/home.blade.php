@@ -16,7 +16,7 @@
     </main>
     <section>
         <div class="container">
-            <div class="row row-cols-2 mx-3">
+            <div class="row row-cols-4 mx-3">
                 @foreach ($movies as $movie)
                     <div class="col my-3">
                         <div class="card" style="width: 18rem;">
